@@ -4,6 +4,13 @@
 
 This project employs Convolutional Neural Networks (CNNs) for classifying fruit images [1]. The project explores optimization techniques, regularization methods, transfer learning, and detailed result analysis.
 
+## Authors
+
+- André Bacelar
+- Filipe Moreno
+- Gabriel Costa
+- Lucas Barros
+
 ## Project Structure
 
 - **Dataset:** Fruit Recognition (Kaggle)
@@ -74,13 +81,6 @@ Finally, run the cells implementing transfer learning with ResNet50 and compare 
 - **Test set size:** 5641 images (one fruit or vegetable per image)
 - **Number of classes:** 33 (fruits and vegetables)
 - **Image size:** 100x100 pixels
-
-## Authors
-
-- André Bacelar
-- Filipe Moreno
-- Gabriel Costa
-- Lucas Barros
 
 ## References
 
